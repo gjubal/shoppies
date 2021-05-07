@@ -5,7 +5,7 @@
 The Shoppies application is an interface designed to aid the Shopify movie
 critics as they select movie nominations for the upcoming Shoppies.
 
-[Live Version](www.google.com)
+[Live Version](https://shoppies-fall.netlify.app)
 
 ## Requirements
 

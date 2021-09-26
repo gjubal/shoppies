@@ -2,7 +2,7 @@
 
 ![Alt Text](https://media.giphy.com/media/TG7jUjEcwP5fWAqfAA/giphy.gif)
 
-The Shoppies application is an interface designed to aid the Shopify movie
+The Shoppies application is an interface designed to aid the movie
 critics as they select movie nominations for the upcoming Shoppies.
 
 [Live Version](https://shoppies-fall.netlify.app)
